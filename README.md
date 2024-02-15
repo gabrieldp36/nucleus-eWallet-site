@@ -1,4 +1,4 @@
-![portada](https://github.com/gabrieldp36/arquitecturaBosqueSite/assets/88417383/81fb5d29-9253-48c2-ab12-c55200cd1c72)
+![portada](https://github.com/gabrieldp36/nucleus-eWallet-site/assets/88417383/6a9e7c4a-56e3-455c-8a4a-1b8f4538b45f)
 
 # Nucleus eWallet.
 
@@ -11,5 +11,5 @@ Adicionalmente, el sitio cuenta con animaciones desarrolladas mediante css y se 
 Para visitar el sitio pueden hacer click en el siguiente link:
 
 ```
-https://arquitectura-bosque-gdp.netlify.app
+https://nucleus-ewallet-gdp.netlify.app
 ```
