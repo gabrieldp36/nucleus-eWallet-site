@@ -115,6 +115,12 @@ img {
     }
 }
 
+@media(min-width: 1600px) {
+    .header {
+        background-size: 102rem;
+    }
+}
+
 @media(min-width: 768px) {
     .header__barra {
         display: flex;
